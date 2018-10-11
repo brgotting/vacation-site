@@ -1,0 +1,42 @@
+#header {
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  font-size: 72px;
+}
+
+#island {
+  display: flex;
+  margin: 0 auto;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  width: 1000px;
+
+}
+
+.asap {
+  width: 200px;
+
+}
+
+.impala {
+  width: 300px;
+  padding-right: 50px;
+
+
+}
+
+.drake {
+  width: 300px;
+
+}
+
+.column {
+  width: 300px;
+ float: left;
+}
+h2{
+  text-align: center;
+}
+float{
+  float: bottom;
+}
